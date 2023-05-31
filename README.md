@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmad-Dorri
 - 👀 I’m interested in site developing
-- 🌱 I’m currently learning ##nextjs + ##typescript
+- 🌱 I’m currently learning NextJS + Typescript
 - 📫 Reach me in ahmaddorri110@gmail.com
 
 <!---
